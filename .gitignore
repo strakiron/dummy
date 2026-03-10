@@ -1,0 +1,12 @@
+#MacoS
+.DS_Shorts
+
+#windows
+Thumbs.db
+
+#jar 
+*.jar
+
+#text 
+[xyz]*.txt
+
